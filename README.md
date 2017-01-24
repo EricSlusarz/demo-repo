@@ -23,7 +23,7 @@
 2. Second
 3. Third
 
-boom boom
+:boom :boom
 
 ~~first strike through~~
 
