@@ -8,6 +8,9 @@ Because you can just type a paragraph or whatever.
 ------------------------------
 -another list item
 ------------------------------
+<br>
+<br>
+
 -[ ] a check box
 
 Eric Slusarz
